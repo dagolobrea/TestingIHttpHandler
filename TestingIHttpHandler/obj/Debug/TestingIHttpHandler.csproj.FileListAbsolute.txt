@@ -1,0 +1,5 @@
+c:\users\se08865\documents\visual studio 2010\Projects\TestingIHttpHandler\TestingIHttpHandler\bin\TestingIHttpHandler.dll
+c:\users\se08865\documents\visual studio 2010\Projects\TestingIHttpHandler\TestingIHttpHandler\bin\TestingIHttpHandler.pdb
+c:\users\se08865\documents\visual studio 2010\Projects\TestingIHttpHandler\TestingIHttpHandler\obj\Debug\ResolveAssemblyReference.cache
+c:\users\se08865\documents\visual studio 2010\Projects\TestingIHttpHandler\TestingIHttpHandler\obj\Debug\TestingIHttpHandler.dll
+c:\users\se08865\documents\visual studio 2010\Projects\TestingIHttpHandler\TestingIHttpHandler\obj\Debug\TestingIHttpHandler.pdb
